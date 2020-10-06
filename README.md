@@ -1,9 +1,7 @@
 # Machine Learning Pocket Reference
 
-- Created by Francisco Salas
-- version: 0.1.0
-- Date: 2020-10-06
-- username : franksalas
+[![book image](https://images-na.ssl-images-amazon.com/images/I/418be-msEJL._SX302_BO1,204,203,200_.jpg)](https://amzn.to/3jC9HCz)
+
 
 ## Description
 Book overview of each chapter with code.
