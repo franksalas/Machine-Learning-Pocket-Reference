@@ -105,20 +105,20 @@ SRC_DIR = os.listdir('../src')
 ## Save plots 
 # must be from /notebooks not /notebooks/folderx
 # pickle plots save
-pkl_directory_saves = os.path.join( '..','reports','figures','pkl_plots/')
+pkl_directory_saves = os.path.join( 'reports','figures','pkl_plots/')
 # create directory, if it does not exist                                 
 if not os.path.exists(pkl_directory_saves):
     os.makedirs(pkl_directory_saves)
     
 ## plot image save
-img_directory_saves = os.path.join( ..','reports','figures','img/')
+img_directory_saves = os.path.join( 'reports','figures','img/')
 # create directory, if it does not exist                                 
 if not os.path.exists(img_directory_saves):
     os.makedirs(img_directory_saves)
     
 
 # plotly save
-plt_directory_saves = os.path.join( '..','reports','figures','plotly/')
+plt_directory_saves = os.path.join( 'reports','figures','plotly/')
 # create directory, if it does not exist                                 
 if not os.path.exists(plt_directory_saves):
     os.makedirs(plt_directory_saves)
